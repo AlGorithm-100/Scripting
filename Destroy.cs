@@ -7,7 +7,7 @@ public class Destroy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // ”ничтожить объект в начале игры
+        // Destroy object
         Destroy(gameObject);
     }
 

@@ -13,7 +13,7 @@ public class HelloWorld : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Выводить каждый кадр
+        // Print per frame
         print("crickets");
     }
 }
